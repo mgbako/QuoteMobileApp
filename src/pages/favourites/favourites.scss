@@ -1,0 +1,15 @@
+page-favourites {
+  .author{
+    color: #ccc;
+    text-transform: uppercase;
+    text-align: right;
+    font-style: italic;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .alt {
+    background-color: color($colors, altQuoteBackground);
+  }
+}
